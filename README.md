@@ -59,12 +59,6 @@ Building with **Cloud, AI, Web3 and Cybersecurity**. I learn by building, join h
 <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premxpagar&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
 </div>
 
-## Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=premxpagar&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
-</div>
-
 ## Pac-Man Contributions
 
 <div align="center">
