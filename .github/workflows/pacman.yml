@@ -1,0 +1,43 @@
+name: Generate Pac-Man Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pacman:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: premxpagar
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: pacman
+          player_style: opportunistic
+
+      - name: Push generated files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git clone --branch output https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/premxpagar/premxpagar.git output-repo || \
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/premxpagar/premxpagar.git output-repo
+
+          cd output-repo
+
+          git checkout --orphan output 2>/dev/null || git checkout output
+
+          rm -rf *
+
+          cp ../dist/* .
+
+          git add .
+
+          git commit -m "Update Pac-Man contribution graph" || true
+          git push origin output --force
