@@ -1,36 +1,23 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:111827,100:172554&text=Prem%20Pagar&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=Cloud%20%7C%20AI%20%7C%20Web3%20%7C%20Software&descAlignY=62&descSize=18&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:111827,100:172554&text=Prem%20Pagar&font=Outfit&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=Cloud%20%7C%20AI%20%7C%20Web3%20%7C%20Software&descAlignY=62&descSize=18&animation=fadeIn"
   width="100%"
 />
 
 <br>
 
 <h3>Computer Science & Cybersecurity Student</h3>
-
 <strong>Google Cloud · AWS · AI · Web3</strong>
 
 <br><br>
 
-<a href="https://github.com/premxpagar">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/prempagar/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-</a>
-<a href="https://x.com/premxpagar">
-<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white">
-</a>
-<a href="https://www.instagram.com/premxpagar/">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F">
-</a>
+<a href="https://github.com/premxpagar"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/prempagar/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
+<a href="https://x.com/premxpagar"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="https://www.instagram.com/premxpagar/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
 
 </div>
-
-<br>
 
 ---
 
@@ -88,9 +75,7 @@ Exploring:
 
 ### Cloud
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=aws,gcp" /></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
@@ -101,15 +86,11 @@ Exploring:
 
 ### Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" /></p>
 
 ### Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,supabase,git,github,vscode" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,supabase,git,github,vscode" /></p>
 
 ### AI & Web3
 
@@ -135,8 +116,6 @@ A Web3 hiring platform exploring blockchain-based trust, verification and digita
 
 **React · JavaScript · Web3 · Monad**
 
-<br>
-
 <a href="https://github.com/premxpagar/HireMe">View Repository →</a>
 
 </td>
@@ -147,8 +126,6 @@ A Web3 hiring platform exploring blockchain-based trust, verification and digita
 A cricket-focused application created for the GDG Mumbai community.
 
 **React · JavaScript · HTML · CSS**
-
-<br>
 
 <a href="https://github.com/premxpagar/CricComic-App-GDG-MUMBAI">View Repository →</a>
 
@@ -183,31 +160,23 @@ An AI and blockchain project exploring transparent digital fund management and v
 <table>
 <tr>
 <td width="50%" valign="top">
-
 <h3 align="center">Google Cloud</h3>
-
 <p align="center"><img src="https://skillicons.dev/icons?i=gcp" width="70"></p>
-
 - Google Cloud Platform
 - Gemini
 - Vertex AI
 - Generative AI
 - Google developer ecosystem
 - Google Student Ambassador
-
 </td>
 <td width="50%" valign="top">
-
 <h3 align="center">AWS</h3>
-
 <p align="center"><img src="https://skillicons.dev/icons?i=aws" width="70"></p>
-
 - AWS Cloud
 - Amazon Bedrock
 - Generative AI
 - AWS Builder ecosystem
 - AWS Student Builder Group Leader
-
 </td>
 </tr>
 </table>
@@ -234,20 +203,16 @@ I also host and organize developer events, cloud sessions and hackathons.
 <table>
 <tr>
 <td>
-
 - Google Skills Arcade — Arcade Trooper
 - Google Skills Arcade Season 2
 - Aspire Leaders Program — Module 2
 - Google Student Ambassador
-
 </td>
 <td>
-
 - AWS Student Builder Group Leader
 - Monad Blitz Mumbai
 - Smart India Hackathon
 - Technical event host and organizer
-
 </td>
 </tr>
 </table>
@@ -257,14 +222,10 @@ I also host and organize developer events, cloud sessions and hackathons.
 ## GitHub Stats
 
 <div align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=premxpagar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
 <img height="170" src="https://streak-stats.demolab.com?user=premxpagar&theme=transparent&hide_border=true&border_radius=10" />
-
 <br><br>
-
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premxpagar&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-
 </div>
 
 ---
@@ -300,21 +261,16 @@ I also host and organize developer events, cloud sessions and hackathons.
 ## Find Me Online
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/prempagar/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
 <a href="https://github.com/premxpagar"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://x.com/premxpagar"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white"></a>
 <a href="https://www.instagram.com/premxpagar/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
 <a href="https://leetcode.com/u/WdZjnABv07/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"></a>
 <a href="https://www.geeksforgeeks.org/profile/pagarps4uj"><img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"></a>
-
 </div>
 
-<br>
+<hr>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:172554,50:111827,100:0D1117" />
-
-### Building with cloud. Learning by building.
-
+<strong>Building with cloud. Learning by building.</strong>
 </div>
