@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".5" stop-color="#0b1026"/><stop offset="1" stop-color="#12051f"/></linearGradient>
+ <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#48d8ff"/><stop offset=".55" stop-color="#b58cff"/><stop offset="1" stop-color="#ff5de4"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#4c72ff" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="360" fill="url(#grid)"/>
+<g fill="none" stroke="#36cfff" stroke-opacity=".2"><path d="M0 285 Q260 220 500 285 T1200 250"/><path d="M0 305 Q300 250 620 305 T1200 270"/></g>
+<g filter="url(#glow)" opacity=".7">
+ <circle cx="90" cy="80" r="3" fill="#43d9ff"><animate attributeName="cy" values="80;55;80" dur="4s" repeatCount="indefinite"/></circle>
+ <circle cx="1060" cy="90" r="3" fill="#c77dff"><animate attributeName="cy" values="90;125;90" dur="5s" repeatCount="indefinite"/></circle>
+ <circle cx="980" cy="285" r="2" fill="#49eaff"><animate attributeName="cx" values="980;1030;980" dur="4s" repeatCount="indefinite"/></circle>
+</g>
+<g opacity=".5" fill="none" stroke="#8b5cf6" stroke-width="1.5"><rect x="70" y="105" width="115" height="72" rx="8"/><path d="M85 130h60M85 145h42M85 160h70"/></g>
+<g opacity=".45" fill="none" stroke="#38bdf8" stroke-width="1.5"><rect x="1010" y="115" width="120" height="76" rx="8"/><path d="M1028 142l18 15-18 15M1055 172h42"/></g>
+<g transform="translate(108 245)" opacity=".85"><rect x="0" y="18" width="42" height="30" rx="7" fill="#111a3b" stroke="#38d9ff"/><circle cx="12" cy="32" r="4" fill="#38d9ff"/><circle cx="30" cy="32" r="4" fill="#b58cff"/><path d="M21 18V7" stroke="#38d9ff"/><circle cx="21" cy="5" r="3" fill="#38d9ff"/><animateTransform attributeName="transform" type="translate" values="108 245;108 232;108 245" dur="3.5s" repeatCount="indefinite"/></g>
+<g transform="translate(1030 225)" opacity=".8"><path d="M0 35l28-48 28 48z" fill="#101a3a" stroke="#b58cff"/><circle cx="28" cy="4" r="8" fill="#b58cff"/><path d="M28-4v16M20 4h16" stroke="#fff" stroke-opacity=".8"/><animateTransform attributeName="transform" type="translate" values="1030 225;1015 210;1030 225" dur="4.5s" repeatCount="indefinite"/></g>
+<text x="600" y="205" text-anchor="middle" font-family="cursive" font-size="112" font-style="italic" font-weight="600" fill="url(#name)" filter="url(#glow)">Prem Pagar</text>
+<path d="M385 228 Q600 270 815 228" fill="none" stroke="url(#name)" stroke-width="3" stroke-linecap="round"/>
+</svg>
