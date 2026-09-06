@@ -34,7 +34,7 @@ I'm a Computer Science & Cybersecurity student interested in building with
 I learn by building real projects, joining hackathons, working with developer
 communities, and experimenting with new technologies.
 
-Currently exploring **cloud computing, AI/ML, cybersecurity, blockchain and DSA**.
+Currently exploring **cloud computing, AI/ML, blockchain and DSA**.
 
 ---
 
@@ -45,7 +45,7 @@ Currently exploring **cloud computing, AI/ML, cybersecurity, blockchain and DSA*
 - Building **Web3 and blockchain projects**
 - Learning **Data Structures & Algorithms**
 - Working with **cloud APIs and backend systems**
-- Exploring **cybersecurity and secure application development**
+- Exploring secure application development
 
 ---
 
@@ -53,26 +53,26 @@ Currently exploring **cloud computing, AI/ML, cybersecurity, blockchain and DSA*
 
 ### Cloud
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ### Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
 </p>
 
 ### Development
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,supabase,git,github,vscode" />
 </p>
 
 ### AI
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -80,7 +80,7 @@ Currently exploring **cloud computing, AI/ML, cybersecurity, blockchain and DSA*
 
 ### Web3
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=solidity" />
   <img src="https://img.shields.io/badge/Monad-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Web3-111111?style=for-the-badge" />
@@ -92,8 +92,8 @@ Currently exploring **cloud computing, AI/ML, cybersecurity, blockchain and DSA*
 
 ### HireMe
 
-A Web3 hiring platform exploring blockchain-based trust, verification and
-digital opportunities.
+A Web3 hiring platform exploring blockchain-based trust, verification
+and digital opportunities.
 
 **Tech:** React · JavaScript · Web3 · Blockchain · Monad
 
@@ -113,8 +113,8 @@ A cricket-focused application created for the GDG Mumbai community.
 
 ### EmailAnalyzer
 
-An AI-powered email analysis project for understanding incoming emails and
-identifying important or potentially suspicious messages.
+An AI-powered email analysis project for understanding incoming emails
+and identifying important or potentially suspicious messages.
 
 **Tech:** AI · LLM APIs · Python/JavaScript · REST APIs
 
@@ -131,10 +131,9 @@ and verification.
 
 ## Google Cloud & AWS
 
-I'm actively building my cloud skills through both major cloud ecosystems.
-
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### Google Cloud
@@ -142,7 +141,6 @@ I'm actively building my cloud skills through both major cloud ecosystems.
 - Google Cloud Platform
 - Gemini
 - Vertex AI
-- Cloud services
 - Generative AI
 - Google developer ecosystem
 - Google Student Ambassador
@@ -155,12 +153,12 @@ I'm actively building my cloud skills through both major cloud ecosystems.
 
 - AWS Cloud
 - Amazon Bedrock
-- Cloud services
 - Generative AI
 - AWS Builder ecosystem
 - AWS Student Builder Group Leader
 
 </td>
+
 </tr>
 </table>
 
@@ -197,55 +195,87 @@ hackathons and technical community activities.
 
 ---
 
-## GitHub Activity
+# GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=premxpagar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=premxpagar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+  height="170"
+/>
 
-<br/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=premxpagar&theme=transparent&hide_border=true"
+  height="170"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=premxpagar&theme=transparent&hide_border=true" />
+<br>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premxpagar&layout=compact&hide_border=true&theme=transparent" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=premxpagar&layout=compact&hide_border=true&theme=transparent"
+  height="150"
+/>
 
 </div>
 
 ---
 
-## Contribution Graph
+# Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=premxpagar&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=premxpagar&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+  width="95%"
+/>
 
 </div>
 
 ---
 
-## Contribution Snake
+# Pac-Man Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/premxpagar/premxpagar/output/github-contribution-grid-snake.svg" />
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/premxpagar/premxpagar/output/pacman-contribution-graph-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/premxpagar/premxpagar/output/pacman-contribution-graph.svg"
+  />
+
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/premxpagar/premxpagar/output/pacman-contribution-graph.svg"
+    width="100%"
+  />
+
+</picture>
 
 </div>
 
 ---
 
-## 3D Contributions
+# 3D Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/premxpagar/premxpagar/main/profile-3d-contrib/profile-night-rainbow.svg" />
+<img
+  src="./profile-3d-contrib/profile-night-rainbow.svg"
+  width="100%"
+  alt="3D GitHub contribution graph"
+/>
 
 </div>
 
 ---
 
-## Learning
+# Learning
 
 ```text
 Google Cloud       ███████████████████░░
